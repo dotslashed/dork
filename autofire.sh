@@ -3,7 +3,7 @@
 
 echo "-------------------------------------GOOGLE DORK AUTOMATION-------------------------------------------------------------------------------------"
 
-echo "+++++++++WARNING!!! This script will suddenly open many tabs on your browser+++++++++++"
+echo "+++++++++WARNING!!! This script may suddenly open many tabs on your browser+++++++++++"
 
 echo "[+] Please enter the target for whom you want to dork"
 
